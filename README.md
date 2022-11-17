@@ -1,0 +1,1 @@
+Inserisci i dati nelle apposite box, premi SUBMIT per salvare i dati e PRINT per stamparli nell'area sottostante. Se si vogliono modificare i dati, bisogna sempre fare prima SUBMIT e poi PRINT
